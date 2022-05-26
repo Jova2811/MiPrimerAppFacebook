@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">MiPrimerAPP</string>
+    <string name="facebook_app_id">305028758356751</string>
+    <string name="fb_login_protocol_scheme">fb305028758356751</string>
+    <string name="facebook_client_token">7263d526c1a47a1a0f657b6c75e55a5c</string>
+</resources>
